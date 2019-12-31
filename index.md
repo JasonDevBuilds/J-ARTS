@@ -16,4 +16,4 @@ All games will be hosted on [Game Jolt](https://gamejolt.com/) or possibly (in t
 
 Got a suggestion for us? Reporting a bug? Contact us [here](mailto:jasondevbuilds@gmail.com)
 
-<center><img src='images/logowhite_upscaled_illustration_x4.png'></center>
+<center><img src='images/logowhite_upscaled_illustration_.png'></center>
