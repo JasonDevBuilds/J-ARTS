@@ -8,7 +8,7 @@ We are located in Central Scotland, the studio has just started on new years eve
 
 ### Game Jolt
 
-All games will be hosted on Game Jolt or possibly itch.io [gamejolt](https://gamejolt.com/)
+All games will be hosted on [Game Jolt] or possibly itch.io (https://gamejolt.com/)
 
 ### Support or Contact
 
